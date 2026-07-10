@@ -1,7 +1,7 @@
 # Evan You Perspective - 尤雨溪思维操作系统
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/yourusername/evan-you-perspective)
+[![Version](https://img.shields.io/badge/version-1.1.0-blue.svg)](https://github.com/Cherish133/evan-you-perspective)
 
 > 用尤雨溪的视角思考技术决策、产品设计和开源经营问题
 
@@ -26,7 +26,7 @@ skillhub install evan-you-perspective
 **方式二：本地安装**
 ```bash
 # 克隆或下载到你的 skills 目录
-git clone https://github.com/yourusername/evan-you-perspective.git
+git clone https://github.com/Cherish133/evan-you-perspective.git
 # 或直接复制 SKILL.md 到你的 agent workspace
 ```
 
@@ -147,7 +147,7 @@ git clone https://github.com/yourusername/evan-you-perspective.git
 ## 📮 联系方式
 
 - SkillHub: https://skillhub.cn/skills/evan-you-perspective
-- GitHub: https://github.com/yourusername/evan-you-perspective
+- GitHub: https://github.com/Cherish133/evan-you-perspective
 
 ---
 
